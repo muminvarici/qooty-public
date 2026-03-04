@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "music": [
+    {
+      "id": "music-1",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music/under-the-sleepy-moon-lullaby-music-instrumental-346581.mp3",
+      "filename": "under-the-sleepy-moon-lullaby-music-instrumental-346581.mp3",
+      "type": "music",
+      "title": "Under the Sleepy Moon",
+      "artist": "sleepvolume",
+      "musicType": "sleep",
+      "owner": "Pixabay Music",
+      "imageUrl": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/under-the-sleepy-moon-346581.jpg",
+      "imageFilename": "under-the-sleepy-moon-346581.jpg",
+      "imageId": "music-cover-1"
+    },
+    {
+      "id": "music-2",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music/lullaby-baby-sleep-music-388567.mp3",
+      "filename": "lullaby-baby-sleep-music-388567.mp3",
+      "type": "music",
+      "title": "Lullaby Baby Sleep",
+      "artist": "Pixabay Music",
+      "musicType": "sleep",
+      "owner": "Pixabay Music",
+      "imageUrl": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/lullaby-baby-sleep-388567.png",
+      "imageFilename": "lullaby-baby-sleep-388567.png",
+      "imageId": "music-cover-2"
+    },
+    {
+      "id": "music-3",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music/lullaby-baby-sleep-music-348097.mp3",
+      "filename": "lullaby-baby-sleep-music-348097.mp3",
+      "type": "music",
+      "title": "Lullaby Baby Sleep",
+      "artist": "Tunetank",
+      "musicType": "sleep",
+      "owner": "Pixabay Music",
+      "imageUrl": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/lullaby-baby-sleep-348097.jpg",
+      "imageFilename": "lullaby-baby-sleep-348097.jpg",
+      "imageId": "music-cover-3"
+    },
+    {
+      "id": "music-4",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music/lullaby-baby-sleep-music-349976.mp3",
+      "filename": "lullaby-baby-sleep-music-349976.mp3",
+      "type": "music",
+      "title": "Lullaby Baby Sleep",
+      "artist": "Tunetank",
+      "musicType": "sleep",
+      "owner": "Pixabay Music",
+      "imageUrl": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/Tunetank.jpg",
+      "imageFilename": "Tunetank.jpg",
+      "imageId": "music-cover-4"
+    }
+  ],
+  "musicCovers": [
+    {
+      "id": "music-cover-1",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/under-the-sleepy-moon-346581.jpg",
+      "filename": "under-the-sleepy-moon-346581.jpg",
+      "type": "music-cover"
+    },
+    {
+      "id": "music-cover-2",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/lullaby-baby-sleep-388567.png",
+      "filename": "lullaby-baby-sleep-388567.png",
+      "type": "music-cover"
+    },
+    {
+      "id": "music-cover-3",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/lullaby-baby-sleep-348097.jpg",
+      "filename": "lullaby-baby-sleep-348097.jpg",
+      "type": "music-cover"
+    },
+    {
+      "id": "music-cover-4",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/music-covers/Tunetank.jpg",
+      "filename": "Tunetank.jpg",
+      "type": "music-cover"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "version": "1.0.0",
+  "images": [
+    {
+      "id": "story-img-1",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/3194556-twins-1628843_1920.jpg",
+      "filename": "3194556-twins-1628843_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - twins-1628843"
+    },
+    {
+      "id": "story-img-2",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/460273-brothers-457234_1920.jpg",
+      "filename": "460273-brothers-457234_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - brothers-457234"
+    },
+    {
+      "id": "story-img-3",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/adelemorrisphotography-baby-5925559_1920.jpg",
+      "filename": "adelemorrisphotography-baby-5925559_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-5925559"
+    },
+    {
+      "id": "story-img-4",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-baby-8056153_1920.jpg",
+      "filename": "bongbabyhousevn-baby-8056153_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-8056153"
+    },
+    {
+      "id": "story-img-5",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-baby-8061294_1920.jpg",
+      "filename": "bongbabyhousevn-baby-8061294_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-8061294"
+    },
+    {
+      "id": "story-img-6",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-newborn-6405296_1920.jpg",
+      "filename": "bongbabyhousevn-newborn-6405296_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - newborn-6405296"
+    },
+    {
+      "id": "story-img-7",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-newborn-6467762_1920.jpg",
+      "filename": "bongbabyhousevn-newborn-6467762_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - newborn-6467762"
+    },
+    {
+      "id": "story-img-8",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-newborn-photography-9292505_1920.jpg",
+      "filename": "bongbabyhousevn-newborn-photography-9292505_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - newborn-photography-9292505"
+    },
+    {
+      "id": "story-img-9",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/huyngan-baby-7374131_1920.jpg",
+      "filename": "huyngan-baby-7374131_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-7374131"
+    },
+    {
+      "id": "story-img-10",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/marvelmozhko-baby-2923997_1920.jpg",
+      "filename": "marvelmozhko-baby-2923997_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-2923997"
+    },
+    {
+      "id": "story-img-11",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/pexels-baby-1839565_1920.jpg",
+      "filename": "pexels-baby-1839565_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-1839565"
+    },
+    {
+      "id": "story-img-12",
+      "url": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/sunriseforever-baby-2972221_1920.jpg",
+      "filename": "sunriseforever-baby-2972221_1920.jpg",
+      "type": "story-image",
+      "attribution": "Pixabay - baby-2972221"
+    }
+  ],
+  "imageMap": {
+    "1": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/3194556-twins-1628843_1920.jpg",
+    "2": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/460273-brothers-457234_1920.jpg",
+    "3": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/adelemorrisphotography-baby-5925559_1920.jpg",
+    "4": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-baby-8056153_1920.jpg",
+    "5": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-baby-8061294_1920.jpg",
+    "6": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-newborn-6405296_1920.jpg",
+    "7": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-newborn-6467762_1920.jpg",
+    "8": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/bongbabyhousevn-newborn-photography-9292505_1920.jpg",
+    "9": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/huyngan-baby-7374131_1920.jpg",
+    "10": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/marvelmozhko-baby-2923997_1920.jpg",
+    "11": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/pexels-baby-1839565_1920.jpg",
+    "12": "https://raw.githubusercontent.com/muminvarici/qooty-public/master/images/sunriseforever-baby-2972221_1920.jpg"
+  }
+}
